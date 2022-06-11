@@ -1,0 +1,62 @@
+GET http://localhost:8080
+
+###
+
+POST http://localhost:8080
+Content-Type: application/json
+
+{
+  "text": "Privet!"
+}
+
+###
+
+POST http://localhost:8080
+Content-Type: application/json
+
+{
+  "text": "Bonjour!"
+}
+
+###
+
+POST http://localhost:8080
+Content-Type: application/json
+
+{
+  "text": "Hello!"
+}
+
+###
+
+GET http://localhost:8080
+
+###
+
+POST http://localhost:8080
+Content-Type: application/json
+
+{
+  "text": "Privet!"
+}
+
+###
+
+POST http://localhost:8080
+Content-Type: application/json
+
+{
+  "text": "Bonjour!"
+}
+
+###
+
+POST http://localhost:8080
+Content-Type: application/json
+
+{
+  "text": "Hello!"
+}
+
+###
+
